@@ -10,6 +10,14 @@ public class Hotel {
         this.rates = rates;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public Double getRates() {
+        return rates;
+    }
+
     @Override
     public String toString() {
         return "Hotel{" +

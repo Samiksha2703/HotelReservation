@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.hotelreservationtest.HotelReservationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-30T08:47:00" hostname="LAPTOP-VA1S61KV" time="0.028">
+<testsuite name="com.bridgelabz.hotelreservationtest.HotelReservationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-31T05:37:41" hostname="LAPTOP-VA1S61KV" time="0.028">
   <properties/>
-  <testcase name="givenHotel_WhenAdded_ShouldReturn_TRUE()" classname="com.bridgelabz.hotelreservationtest.HotelReservationTest" time="0.028"/>
+  <testcase name="givenBookingDate_ShouldReturn_CheapestHotel()" classname="com.bridgelabz.hotelreservationtest.HotelReservationTest" time="0.028"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
